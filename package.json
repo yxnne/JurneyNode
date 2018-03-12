@@ -1,0 +1,22 @@
+{
+  "name": "jurney_node",
+  "version": "1.0.0",
+  "description": "This is a web app for travel using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yxnne/JurneyNode.git"
+  },
+  "author": "yxnne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yxnne/JurneyNode/issues"
+  },
+  "homepage": "https://github.com/yxnne/JurneyNode#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
