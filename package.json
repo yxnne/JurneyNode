@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/yxnne/JurneyNode#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0"
+
   }
 }
